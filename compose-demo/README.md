@@ -1,5 +1,5 @@
 # How To Install and Use Docker Compose on Ubuntu 22.04
-* https://www.favtuts.com/how-to-install-and-use-docker-compose-on-ubuntu-22-04/
+* https://tuts.heomi.net/how-to-install-and-use-docker-compose-on-ubuntu-22-04/
 
 # Instroduction
 To demonstrate how to set up a `docker-compose.yml`` file and work with Docker Compose, you’ll create a web server environment using the official Nginx image from Docker Hub, the public Docker registry. This containerized environment will serve a single static HTML file.

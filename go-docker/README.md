@@ -1,5 +1,5 @@
 # Deploy a Go Web Application with Docker and Nginx
-* https://www.favtuts.com/how-to-deploy-a-go-web-application-with-docker-and-nginx-on-ubuntu-22-04/
+* https://tuts.heomi.net/how-to-deploy-a-go-web-application-with-docker-and-nginx-on-ubuntu-22-04/
 
 # Create an Example Go Web App
 

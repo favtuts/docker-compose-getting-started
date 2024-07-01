@@ -1,5 +1,5 @@
 # docker-compose-getting-started
-Quickstart demo of Docker Compose for blog post: https://www.favtuts.com/docker-compose-overview-steps-to-install-docker-compose/
+Quickstart demo of Docker Compose for blog post: https://tuts.heomi.net/docker-compose-overview-steps-to-install-docker-compose/
 
 
 # prepare environment
