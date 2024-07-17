@@ -1,5 +1,5 @@
 # Run SQL Server 2022 Linux container images with Docker
-
+* https://tuts.heomi.net/run-sql-server-2022-linux-container-images-with-docker/
 
 # Create docker-compose.yml file
 * [docker-compose.yml](./docker-compose.yml)
@@ -25,6 +25,7 @@ $ docker compose down
 
 # Connect to the SQL Server 2022
 * https://stackoverflow.com/questions/61859247/cannot-connect-with-ssms-to-sql-server-on-docker
+
 Open SQL Server Management Studio (SSMS) on your computer and connect the database using the credentials which you set in the `docker-compose.yml` file
 
 What worked for me was connecting as follows:
